@@ -11,5 +11,5 @@ gas_share = gas / len(roommates)
 for roomie in roommates:
 	roomie = {"bill": 0}
 if roomie in roommates:
-print(diana)
+print(diana{"bill"}
 
