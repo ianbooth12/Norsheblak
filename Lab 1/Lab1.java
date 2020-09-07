@@ -16,10 +16,10 @@ public class Lab1
 		System.out.print("Enter your first test score: "); // Prompt for test 1 score
 		double score1 = in.nextInt(); // Input for test 1 score
 
-		System.out.print("%nEnter your second test score: "); // Prompt for test 2 score
+		System.out.print("Enter your second test score: "); // Prompt for test 2 score
 		double score2 = in.nextInt(); // Input for test 2 score
 
-		System.out.print("%nEnter your third test score: "); // Prompt for test 3 score
+		System.out.print("Enter your third test score: "); // Prompt for test 3 score
 		double score3 = in.nextInt(); // Input for test 3 score
 
 		double testAverage = (score1 + score2 + score3) / (double)INPUT_COUNT;
