@@ -15,6 +15,6 @@ public class floorNumber
 		{	
 			actualFloor = floorNumber;
 		}
-		System.out.printf("Press elevator button %d to get to your floor.", actualFloor);
+		System.out.printf("Press elevator button %d to reach your floor.", actualFloor);
 	}
 }
