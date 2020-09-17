@@ -37,7 +37,7 @@ public class Lab3
 				midtermScore = in.nextInt();
 				if (midtermScore < 0 || midtermScore > 100)
 				{
-					System.out.println("[ERR] The score must be between 0 and 100");
+					System.out.println("[ERR] The score must be between 0 and 100.");
 				}
 				else
 				{
