@@ -24,7 +24,7 @@ public class Lab4
 			{
 			case 1:
 				System.out.println("Enter a number: ");
-				int sumNumber = in.nextInt();
+				int sumNumber = in.nextInt(); 
 				int sum = 0;
 				for (int i = 1; i <= sumNumber; i++)
 				{
