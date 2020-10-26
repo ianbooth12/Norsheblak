@@ -1,9 +1,10 @@
 /*-------------------------------------------------------------
-//AUTHOR: your name.
-//FILENAME: title of the source file.
-//SPECIFICATION: your own description of the program.
+//AUTHOR: Ian Booth
+//FILENAME: Lab8.java
+//SPECIFICATION: This program takes user input for month and
+            year, then displays a calendar through array usage
 //FOR: CSE 110 - Lab #8
-//TIME SPENT: how long it took you to complete the assignment.
+//TIME SPENT: 1 hour
 //-----------------------------------------------------------*/
 
 import java.time.LocalDate;
